@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("esto es un ejemplo");
+        System.out.println("No es una prueba");
     }
 }
