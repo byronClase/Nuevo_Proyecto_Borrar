@@ -10,7 +10,27 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.println("esto es un ejemplo");
+        System.out.println("esto es un fiesta");
+        System.out.println("esto es un fiesta");
+        System.out.println("No es una prueba");
+        System.out.println("No es una prueba");System.out.println("esto es un fiesta");
+        System.out.println("esto es un fiesta");
+        System.out.println("No es una prueba");
+        System.out.println("No es una prueba");System.out.println("esto es un fiesta");
+        System.out.println("esto es un fiesta");
+        System.out.println("No es una prueba");
+        System.out.println("No es una prueba");System.out.println("esto es un fiesta");
+        System.out.println("esto es un fiesta");
+        System.out.println("No es una prueba");
+        System.out.println("No es una prueba");System.out.println("esto es un fiesta");
+        System.out.println("esto es un fiesta");
+        System.out.println("No es una prueba");
+        System.out.println("No es una prueba");System.out.println("esto es un fiesta");
+        System.out.println("esto es un fiesta");
+        System.out.println("No es una prueba");
+        System.out.println("No es una prueba");System.out.println("esto es un fiesta");
+        System.out.println("esto es un fiesta");
+        System.out.println("No es una prueba");
         System.out.println("No es una prueba");
     }
 }
